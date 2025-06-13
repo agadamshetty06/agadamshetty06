@@ -21,13 +21,13 @@ Working on projects to enhance my knowledge! <br>
 <h3 align="center">Contact Me</h3>
 <p align="center">
   <a align="center" href="https://www.linkedin.com/in/aayush-gadamshetty-413697290/">
-     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
    <a align="center" href="https://mail.google.com/mail/?view=cm&to=aayushgadamshetty06@outlook.com">
      <img src="https://img.shields.io/badge/Personal-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a align="center" href="https://mail.google.com/mail/?view=cm&to=axg230145@utdallas.edu">
-     <img src="https://img.shields.io/badge/University-fc7b03?style=for-the-badge&logo=gmail&logoColor=white" />
+     <img src="https://img.shields.io/badge/University-154734?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
